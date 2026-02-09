@@ -457,4 +457,11 @@ footer {
     .hero-text {
         padding-left: 12%;  /* Shift text slightly more for the larger photo */
     }
-}
+}<div class="hero-text">
+    <h1 id="titled"><span class="name-wrap">Keri Griggs</span></h1>
+    <p class="hero-subtitle">
+        <span class="fade-in-word">Writer</span>
+        <span class="fade-in-word">Storyteller</span>
+        <span class="fade-in-word">Actor</span>
+    </p>
+</div>
